@@ -2,10 +2,6 @@
 Automated image classification using AWS infrastructure with IaaS and autoscaling. This project leverages cloud-based scalability to efficiently process and classify images, utilizing AWS services such as EC2, S3, and Auto Scaling for optimal resource management and performance.
 
 
-## ASU ID - 1229679960
-## Name - Sahil Yogesh Hadke
-## Email - shadke1@asu.edu
-
 #### Input Bucket: 1229679960-in-bucket
 #### Output Bucket: 1229679960-out-bucket
 #### Resq Queue: 1229679960-resp-queue
