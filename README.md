@@ -45,8 +45,8 @@ The system follows a multi-tiered architecture:
 3. **Data Tier Setup**:
    - Create two S3 buckets:
      ```sh
-     aws s3 mb s3://<ASU-ID>-in-bucket
-     aws s3 mb s3://<ASU-ID>-out-bucket
+     aws s3 mb s3://<ID>-in-bucket
+     aws s3 mb s3://<ID>-out-bucket
      ```
    - Create two SQS queues:
      ```sh
