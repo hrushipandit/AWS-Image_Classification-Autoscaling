@@ -50,8 +50,8 @@ The system follows a multi-tiered architecture:
      ```
    - Create two SQS queues:
      ```sh
-     aws sqs create-queue --queue-name <ASU-ID>-req-queue
-     aws sqs create-queue --queue-name <ASU-ID>-resp-queue
+     aws sqs create-queue --queue-name <ID>-req-queue
+     aws sqs create-queue --queue-name <ID>-resp-queue
      ```
 
 ### Running the System
